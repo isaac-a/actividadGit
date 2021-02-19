@@ -15,12 +15,9 @@ import com.opencsv.CSVWriter;
 import com.opencsv.exceptions.CsvValidationException;
 
 
-
-
 public class Lista {
 	
 public ArrayList<Persona> personas;
-
 
 
 public void cargar() throws CsvValidationException  {
